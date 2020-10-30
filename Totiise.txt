@@ -1,1 +1,2 @@
 TortoiseGit is a tool.
+TortoiseGit is a convenient tool.
